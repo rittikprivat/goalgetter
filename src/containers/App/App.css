@@ -1,0 +1,29 @@
+.loadingSpinner {
+  margin: 50px;
+  text-align: center;
+}
+
+.panelWrapper {
+  margin: 1rem 0 1rem 0;
+}
+
+.horizontalLine{
+  margin: 10px 0 10px 0;
+  border-top: solid 0.5px #c7c4c0;
+}
+
+.contentCentered{
+  text-align: center;
+}
+
+.mainBody {
+  margin: 0 auto;
+  max-width: 900px;
+  min-height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  overflow: hidden;
+  position: relative;
+}
